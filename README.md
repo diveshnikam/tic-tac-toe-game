@@ -62,8 +62,5 @@ Players take turns marking “X” or “O” on a 3x3 grid, and the game automa
 ---
 
 
-📧 [divesh.nikam@gmail.com](mailto:divesh.nikam@gmail.com)
 
----
 
-Would you like me to make this README file downloadable for you (as a `.md` file) so you can upload it directly to GitHub?
